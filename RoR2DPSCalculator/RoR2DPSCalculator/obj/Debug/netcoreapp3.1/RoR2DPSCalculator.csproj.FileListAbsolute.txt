@@ -1,0 +1,17 @@
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.csproj.AssemblyReference.cache
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.Form1.resources
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.csproj.GenerateResource.cache
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.AssemblyInfoInputs.cache
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.AssemblyInfo.cs
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.csproj.CoreCompileInputs.cache
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.exe
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.deps.json
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.runtimeconfig.json
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.runtimeconfig.dev.json
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.dll
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\bin\Debug\netcoreapp3.1\RoR2DPSCalculator.pdb
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.dll
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.pdb
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.genruntimeconfig.cache
+D:\random pomoika\RoR2DPSCalculator\RoR2DPSCalculator\RoR2DPSCalculator\obj\Debug\netcoreapp3.1\RoR2DPSCalculator.Properties.Resources.resources
